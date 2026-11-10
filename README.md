@@ -14,7 +14,7 @@ Goal:
 
 | Project | Description | Tools & Technologies  | Project Link | HELP |
 | --- | --- | --- | --- | --- |
-| Heart Disease Prediction | Predicting heart disease using machine learning. | Python, Pandas, Scikit-learn | [View Project]([YOUR-LINK](https://github.com/mkanki/HEART_DISEASE_PREDICTION.git)) | Link|
+| Heart Disease Prediction | Predicting heart disease using machine learning. | Python, Pandas, Scikit-learn | [View Project](https://github.com/mkanki/HEART_DISEASE_PREDICTION.git) | Link|
 
 
 
