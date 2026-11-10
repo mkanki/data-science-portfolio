@@ -21,9 +21,9 @@ Project Outcome: A series of supervised learning (classification) models were su
 
 Project #2: EARLY DIABETES RISK PREDICTION IN HIGH-BURDEN COUNTRIES: A COMPARATIVE ANALYSIS OF CLASSIFICATION MODELS
 
-Business description: 
+Business description: The potential of machine learning for the early prediction of diabetes has been expanding over the last decade. However, the International Diabetes Federation (IDF) recognise that many existing predictive models are predominantly developed using Western and European populations, and have approached our data science team to investigate early diabetes risk prediction across the top 10 high-burden countries such as India, Brazil, Mexico, Egypt, among others. 
 
-Goal: 
+Goal: To evaluate the performance of different machine learning classification algorithms and a meta-model in predicting diabetes risk across the top ten high-burden countries. Also, to investigate the combination of traditional and non-traditional risk factors develop a more inclusive and representative approach to reliably predict developing diabetes and supporting earlier intervention.
 
 | Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
 | --- | --- | --- | --- | --- |
@@ -40,7 +40,7 @@ Business description:
 Goal: 
 | Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
 | --- | --- | --- | --- | --- |
-| Heart Disease Prediction [View](https://github.com/mkanki/HEART_DISEASE_PREDICTION.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Classification | 	Decision Tree, Bagging | Synthetic Data|
+| Hospital Readmission Risk [View](https://github.com/mkanki/HOSPITAL_READMISSION_RISK.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Classification | 	Logistic regression, Random forest, Boosting | Kaggle Dataset|
 
 Project Outcome: 
 
@@ -54,7 +54,7 @@ Goal:
 
 | Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
 | --- | --- | --- | --- | --- |
-| Heart Disease Prediction [View](https://github.com/mkanki/HEART_DISEASE_PREDICTION.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Classification | 	Decision Tree, Bagging | Synthetic Data|
+| Student Academic Performance [View](https://github.com/mkanki/STUDENT_ACADEMIC_PERFORMANCE.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Regression | Multiple Linear Regression, Random Forest, Boosting  | Synthetic Data|
 
 Project Outcome: 
 
@@ -68,7 +68,7 @@ Goal:
 
 | Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
 | --- | --- | --- | --- | --- |
-| Heart Disease Prediction [View](https://github.com/mkanki/HEART_DISEASE_PREDICTION.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Classification | 	Decision Tree, Bagging | Synthetic Data|
+| Heart Disease Prediction [View](https://github.com/mkanki/HEART_DISEASE_PREDICTION.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Unsupervised Machine Learning – Clustering | 	K-means clustering, DBSCAN, HDBSCAN| Synthetic Data|
 
 Project Outcome: 
 
