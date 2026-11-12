@@ -1,8 +1,6 @@
 ## 🧠 Projects: Data Science – Machine learning
 Welcome to my data science portfolio!
 
-This repository serves as a central directory of my data science and data analytics projects, showcasing my ongoing development of technical, analytical and problem-solving skills.
-
 <br> 
 
 ### Project #1: DECODING HEART DISEASE PREDICTION: EXPLORING MULTIFACTORIAL RISK FACTORS THROUGH MACHINE LEARNING
