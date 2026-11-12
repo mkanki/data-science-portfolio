@@ -1,6 +1,5 @@
 ## 🧠 Projects: Data Science – Machine learning
 Welcome to my data science portfolio!
-
 <br> 
 
 ### Project #1: DECODING HEART DISEASE PREDICTION: EXPLORING MULTIFACTORIAL RISK FACTORS THROUGH MACHINE LEARNING
@@ -65,16 +64,16 @@ Student performance is influenced by many interconnected factors that may not fo
 
 <br> <br> 
 
-### Project #5: 
+### Project #5: GenAI VERSUS HI - A BATTLE OF CREATIVITY
 
-Business description: 
+Business description: As generative AI (genAI) becomes increasingly integrated into our everyday life and workspace, an important question emerges: Is AI enhancing human creativity, complementing it, or potentially diminishing our innate creative capabilities? Researchers from the RMIT Centre for Human-AI Information Environments (CHAI) in Melbourne wish to explore the relationship between individuals' creativity and generative AI using unsupervised machine learning models. This project will help gain deeper insights into how AI is changing the way people think, create, learn and solve problems — and what we can do to ensure that relationship remains beneficial.
 
-Goal: 
+Goal: To identify distinct behavioural profiles based on individuals' patterns of AI usage, perceptions, reliance and its perceived influence on their creative abilities.
 
 | Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
 | --- | --- | --- | --- | --- |
 | Heart Disease Prediction [View](https://github.com/mkanki/HEART_DISEASE_PREDICTION.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Unsupervised Machine Learning – Clustering | 	K-means clustering, DBSCAN, HDBSCAN| Synthetic Data|
 
-Project Outcome: 
+Project Outcome: The analysis explored whether naturally occurring patterns could be identified across AI usage behaviours, attitudes, reliance and perceptions of creative impact using clustering approaches. Unfortunately, the models did not identify sufficiently distinct or meaningful natural clusters within the dataset. The complexity of human behaviour could mean that individuals share characteristics across multiple dimensions, making it difficult to form clear segments. The variables collected, sample size, feature distributions or data collection methods may not provide enough information to distinguish meaningful behavioural profiles. Thus, there is insufficient evidence to support the existence of clearly differentiated behavioural groups based on their relationship with genAI at this time. 
 
 
