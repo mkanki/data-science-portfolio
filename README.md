@@ -75,4 +75,33 @@ Goal: To identify distinct behavioural profiles based on individuals' patterns o
 
 Project Outcome: The analysis explored whether naturally occurring patterns could be identified across AI usage behaviours, attitudes, reliance and perceptions of creative impact using clustering approaches. Unfortunately, the models did not identify sufficiently distinct or meaningful natural clusters within the dataset. The complexity of human behaviour could mean that individuals share characteristics across multiple dimensions, making it difficult to form clear segments. The variables collected, sample size, feature distributions or data collection methods may not provide enough information to distinguish meaningful behavioural profiles. Thus, there is insufficient evidence to support the existence of clearly differentiated behavioural groups based on their relationship with genAI at this time. 
 
+<br> <br> 
+
+### Project #6: 
+
+Business description: 
+
+Goal: 
+
+| Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
+| --- | --- | --- | --- | --- |
+| TBC | TBC| A/B Testing | TBC| TBC|
+
+Project Outcome: 
+
+<br> <br> 
+
+### Project #7: 
+
+Business description: 
+
+Goal: 
+
+| Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
+| --- | --- | --- | --- | --- |
+| TBC | TBC| Causal Inference | TBC| TBC|
+
+Project Outcome: 
+
+
 
