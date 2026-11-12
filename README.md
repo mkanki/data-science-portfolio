@@ -10,7 +10,7 @@ Goal: To develop and evaluate a supervised machine learning classification model
 
 | Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
 | --- | --- | --- | --- | --- |
-| Heart Disease Prediction [View](https://github.com/mkanki/HEART_DISEASE_PREDICTION.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Classification | 	Decision Tree, Bagging | Synthetic Data|
+| [Heart Disease Prediction](https://github.com/mkanki/HEART_DISEASE_PREDICTION.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Classification | 	Decision Tree, Bagging | Synthetic Data|
 
 Project Outcome: A series of supervised learning (classification) models were successfully developed, tuned and evaluated to investigate their ability to predict heart disease risk. The results demonstrated that machine learning has potential for identifying patterns associated with early heart disease based on traditional and non-traditional risk factors. Further improvements, such as imcorporating a larger and more diverse patient population, addressing class imbalances, and exploring alternative machine learning algorithms, are required to improve predictive performance and the overall reliability in generalisability that is suitable for practical application.
 
@@ -24,7 +24,7 @@ Goal: To evaluate the performance of different machine learning classification a
 
 | Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
 | --- | --- | --- | --- | --- |
-| Diabetes risk prediction [View](https://github.com/mkanki/DIABETES_PREDICTION.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Classification | 	Decision Tree, Random Forest, SVM, KNN, Stacking | Synthetic Data|
+| [Diabetes risk prediction](https://github.com/mkanki/DIABETES_PREDICTION.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Classification | 	Decision Tree, Random Forest, SVM, KNN, Stacking | Synthetic Data|
 
 Project Outcome: 
 - best algorithm, did stacking improve performance, outcomes of feature importance 
@@ -39,7 +39,7 @@ Goal: To develop and optimise a classification model to predict the risk of hosp
 
 | Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
 | --- | --- | --- | --- | --- |
-| Hospital Readmission Risk [View](https://github.com/mkanki/HOSPITAL_READMISSION_RISK.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Classification | Logistic regression, Random forest, Boosting | Kaggle Dataset|
+| [Hospital Readmission Risk](https://github.com/mkanki/HOSPITAL_READMISSION_RISK.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Classification | Logistic regression, Random forest, Boosting | Kaggle Dataset|
 
 Project Outcome: 
 Although multiple iterations of supervised classification models were developed, tuned, and tested, this investigation did not produce a model capable of reliably predicting 30-day hospital readmissions. Alternative machine learning algorithms, more diverse datasets and additional clinical, demographic and behavioural variables should be tested to improve predictive performance and model generalisability. Further exploration is required before machine learning can be reliably used to inform clinical decision-making, enhance discharge planning and help reduce preventable hospital readmissions.
@@ -54,13 +54,12 @@ Goal: To identify and model the relationship between key education factors such 
 
 | Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
 | --- | --- | --- | --- | --- |
-| Student Academic Performance [View](https://github.com/mkanki/STUDENT_ACADEMIC_PERFORMANCE.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Regression | Multiple Linear Regression, Random Forest, Boosting  | Synthetic Data|
+| [Student Academic Performance](https://github.com/mkanki/STUDENT_ACADEMIC_PERFORMANCE.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Regression | Multiple Linear Regression, Random Forest, Boosting  | Synthetic Data|
 
 Project Outcome: 
 Important predictors may not have been captured in the dataset - home life, family factors, friendship, bullying, mental health conditions, Self-reported sleep, screen time and behavioural information may not accurately reflect actual behaviours., Relationships between variables may involve thresholds, interactions or diminishing effects.
 Academic achievement is influenced by factors that are difficult to measure or predict.
 Student performance is influenced by many interconnected factors that may not follow straightforward mathematical relationships.
-
 
 <br> <br> 
 
@@ -72,7 +71,7 @@ Goal: To identify distinct behavioural profiles based on individuals' patterns o
 
 | Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
 | --- | --- | --- | --- | --- |
-| Heart Disease Prediction [View](https://github.com/mkanki/HEART_DISEASE_PREDICTION.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Unsupervised Machine Learning – Clustering | 	K-means clustering, DBSCAN, HDBSCAN| Synthetic Data|
+| [GenAI versus HI](https://github.com/mkanki/HEART_DISEASE_PREDICTION.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Unsupervised Machine Learning – Clustering | 	K-means clustering, DBSCAN, HDBSCAN| Synthetic Data|
 
 Project Outcome: The analysis explored whether naturally occurring patterns could be identified across AI usage behaviours, attitudes, reliance and perceptions of creative impact using clustering approaches. Unfortunately, the models did not identify sufficiently distinct or meaningful natural clusters within the dataset. The complexity of human behaviour could mean that individuals share characteristics across multiple dimensions, making it difficult to form clear segments. The variables collected, sample size, feature distributions or data collection methods may not provide enough information to distinguish meaningful behavioural profiles. Thus, there is insufficient evidence to support the existence of clearly differentiated behavioural groups based on their relationship with genAI at this time. 
 
