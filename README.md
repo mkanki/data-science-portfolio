@@ -4,53 +4,56 @@ Welcome to my data science portfolio!
 
 ### Project #1: DECODING HEART DISEASE PREDICTION: EXPLORING MULTIFACTORIAL RISK FACTORS THROUGH MACHINE LEARNING
 
-Business description: The World Health Organization (WHO) has approached our data science team to investigate the potential of machine learning in improving the early detection of heart disease using traditional and non-traditional risk factors including medical records, lifestyle & sleep health, genetic predispositions and nutrition.
+Business description: The World Health Organization (WHO) has approached our data science team to investigate the potential of machine learning in improving the early detection of heart disease using traditional and non-traditional risk factors, including medical records, lifestyle & sleep health, genetic predispositions and nutrition.
 
-Goal: To develop and evaluate a supervised machine learning classification model that predicts the likelihood of heart disease based on patient health indicators, and assess its potential viability as an early detection support tool for healthcare professionals.
+Goal: To develop and evaluate a supervised machine learning classification model that predicts the likelihood of heart disease based on patient health indicators, and assess its viability as an early detection support tool for healthcare professionals.
 
 | Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
 | --- | --- | --- | --- | --- |
 | [Heart Disease Prediction](https://github.com/mkanki/HEART_DISEASE_PREDICTION.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Classification | 	Decision Tree, Bagging | Synthetic Data|
 
-Project Outcome: A series of supervised learning (classification) models were successfully developed, tuned and evaluated to investigate their ability to predict heart disease risk. The results demonstrated that machine learning has potential for identifying patterns associated with early heart disease based on traditional and non-traditional risk factors. Further improvements, such as imcorporating a larger and more diverse patient population, addressing class imbalances, and exploring alternative machine learning algorithms, are required to improve predictive performance and the overall reliability in generalisability that is suitable for practical application.
+Project Outcome: A series of classification models were developed, tuned and evaluated to investigate their ability to predict heart disease risk. The results demonstrated that machine learning has potential for identifying patterns associated with early heart disease based on traditional and non-traditional risk factors. However, further improvements, such as imcorporating a larger and diverse population-based datasets, addressing class imbalances, and exploring alternative machine learning algorithms, are required to improve predictive performance and the overall reliability in generalisability that is suitable for practical application.
 
 <br> <br> 
 
 ### Project #2: EARLY DIABETES RISK PREDICTION IN HIGH-BURDEN COUNTRIES: A COMPARATIVE ANALYSIS OF CLASSIFICATION MODELS
 
-Business description: The potential of machine learning for the early prediction of diabetes has been expanding over the last decade. However, the International Diabetes Federation (IDF) recognise that many existing predictive models are predominantly developed using Western and European populations, and have approached our data science team to investigate early diabetes risk prediction across the top 10 high-burden countries such as India, Brazil, Mexico, Egypt, among others. 
+Business description: The potential of machine learning for the early prediction of diabetes has been expanding over the last decade. However, the International Diabetes Federation (IDF) recognise that many existing predictive models are predominantly developed using Western and European populations. To address this undercoverage bias, our team of data scientists investigated early diabetes risk prediction across the top 10 high-burden countries such as India, Brazil, Mexico, Egypt, among others. 
 
-Goal: To evaluate the performance of different machine learning classification algorithms and a meta-model in predicting diabetes risk across the top ten high-burden countries. Also, to investigate the combination of traditional and non-traditional risk factors develop a more inclusive and representative approach to reliably predict developing diabetes and supporting earlier intervention.
+Goal: To evaluate the performance of different machine learning classification algorithms and a meta-model in predicting diabetes risk across the top ten high-burden countries. Also, to explore a variety of traditional and non-traditional risk factors to develop a more inclusive and generalisable approach to reliably predict developing diabetes and supporting earlier intervention across many populations.
 
 | Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
 | --- | --- | --- | --- | --- |
 | [Diabetes risk prediction](https://github.com/mkanki/DIABETES_PREDICTION.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Classification | 	Decision Tree, Random Forest, SVM, KNN, Stacking | Synthetic Data|
 
 Project Outcome: 
-- best algorithm, did stacking improve performance, outcomes of feature importance 
+- best algorithm, did stacking improve performance, outcomes of feature importance
+- Model performance: [Best-performing model] achieved the strongest results, with [metric, e.g. AUC of X, recall of X]. The meta-model [outperformed / performed comparably to / did not outperform] the individual algorithms, suggesting [brief interpretation].
+Risk factors: Traditional factors such as [e.g. age, BMI, blood pressure] remained strong predictors. Non-traditional factors such as [e.g. diet, socioeconomic status, physical activity, environmental factors] [added predictive value / improved performance by X].
+Generalisability: Performance [was consistent / varied] across countries, with [notable pattern, e.g. weaker results in countries with limited data].
 
 <br> <br> 
 
 ### Project #3: THE 30-DAY CHALLENGE: UNCOVERING WHO IS AT RISK OF HOSPITAL READMISSION AND WHY
 
-Business description: The Alfred Hospital (Melbourne, Victoria) has approached our data science team to investigate the use of machine learning to predict patient readmissions within 30 days of hospital discharge, and to identify which key demographic factors and health indicators are contributing most to readmission.
+Business description: The Alfred Hospital (Melbourne, Victoria) has approached our data science team to investigate the use of machine learning to predict patient readmission within 30 days of hospital discharge, and to identify which key demographic factors and health indicators are contributing most to readmission.
 
-Goal: To develop and optimise a classification model to predict the risk of hospital readmission within 30 days of discharge, and to identify individuals at higher risk to support early intervention and improve patient outcomes.
+Goal: To develop and optimise a classification model that can predict the risk of hospital readmission within 30 days of discharge, and identify the characteristics of individuals at higher risk. 
 
 | Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
 | --- | --- | --- | --- | --- |
 | [Hospital Readmission Risk](https://github.com/mkanki/HOSPITAL_READMISSION_RISK.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Supervised Machine Learning – Classification | Logistic regression, Random forest, Boosting | Kaggle Dataset|
 
 Project Outcome: 
-Although multiple iterations of supervised classification models were developed, tuned, and tested, this investigation did not produce a model capable of reliably predicting 30-day hospital readmissions. Alternative machine learning algorithms, more diverse datasets and additional clinical, demographic and behavioural variables should be tested to improve predictive performance and model generalisability. Further exploration is required before machine learning can be reliably used to inform clinical decision-making, enhance discharge planning and help reduce preventable hospital readmissions.
+Although multiple iterations of supervised classification models were developed, tuned, and tested, this investigation did not produce a model capable of reliably predicting 30-day hospital readmissions. Alternative machine learning algorithms, more diverse datasets and additional clinical, demographic and behavioural variables should be tested to improve predictive performance and model generalisability. Further exploration is required before machine learning can reliably support clinical decision-making regarding discharge planning and reducing preventable hospital readmissions.
 
 <br> <br> 
 
 ### Project #4: PREDICTING STUDENT ACADEMIC PERFORMANCE IN THE DIGITAL AGE
 
-Business description: The Australian Curriculum, Assessment and Reporting Authority (ACARA) have requested data science services to investigate the relationship between student performance and a range of demographic, environmental and behavioural factors using machine learning and data modelling. Specifically, they aim to explore the influence of access to digital devices and educational resources, attention fragmentation, sleep behaviours and general demographics on academic achievement to gain insights to support evidence-based educational strategies and improved learning outcomes.
+Business description: The Australian Curriculum, Assessment and Reporting Authority (ACARA) have requested data science services to investigate the relationship between student performance and a range of demographic, environmental and behavioural factors using machine learning and data modelling. Specifically, they aim to explore the influence of access to digital devices and educational resources, attention fragmentation, sleep behaviours and general demographics on academic achievement to gain insights to support evidence-based educational strategies and improve learning outcomes.
 
-Goal: To identify and model the relationship between key education factors such as digital technology use, attention span, and student academic performance.
+Goal: To characterise how digital device use, access to educational resources, attention fragmentation and sleep behaviours influence student performance, and identify which factors most strongly predict academic achievement. 
 
 | Project | Tools & Libraries | Project Type  | Algorithms | Data Source |
 | --- | --- | --- | --- | --- |
@@ -65,7 +68,7 @@ Student performance is influenced by many interconnected factors that may not fo
 
 ### Project #5: GenAI VERSUS HI - A BATTLE OF CREATIVITY
 
-Business description: As generative AI (genAI) becomes increasingly integrated into our everyday life and workspace, an important question emerges: Is AI enhancing human creativity, complementing it, or potentially diminishing our innate creative capabilities? Researchers from the RMIT Centre for Human-AI Information Environments (CHAI) in Melbourne wish to explore the relationship between individuals' creativity and generative AI using unsupervised machine learning models. This project will help gain deeper insights into how AI is changing the way people think, create, learn and solve problems — and what we can do to ensure that relationship remains beneficial.
+Business description: As generative AI (genAI) becomes increasingly integrated into our everyday life and workspace, an important question emerges - is AI enhancing human creativity, complementing it, or potentially diminishing our innate creative capabilities? Researchers from the RMIT Centre for Human-AI Information Environments (CHAI) in Melbourne wish to explore the relationship between individuals' creativity and genAI using unsupervised machine learning models. This project will help gain deeper insights into how AI is changing the way people think, create, learn and solve problems — and what we can do to ensure these relationships remains beneficial.
 
 Goal: To identify distinct behavioural profiles based on individuals' patterns of AI usage, perceptions, reliance and its perceived influence on their creative abilities.
 
@@ -73,7 +76,7 @@ Goal: To identify distinct behavioural profiles based on individuals' patterns o
 | --- | --- | --- | --- | --- |
 | [GenAI versus HI](https://github.com/mkanki/HEART_DISEASE_PREDICTION.git) | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | Unsupervised Machine Learning – Clustering | 	K-means clustering, DBSCAN, HDBSCAN| Synthetic Data|
 
-Project Outcome: The analysis explored whether naturally occurring patterns could be identified across AI usage behaviours, attitudes, reliance and perceptions of creative impact using clustering approaches. Unfortunately, the models did not identify sufficiently distinct or meaningful natural clusters within the dataset. The complexity of human behaviour could mean that individuals share characteristics across multiple dimensions, making it difficult to form clear segments. The variables collected, sample size, feature distributions or data collection methods may not provide enough information to distinguish meaningful behavioural profiles. Thus, there is insufficient evidence to support the existence of clearly differentiated behavioural groups based on their relationship with genAI at this time. 
+Project Outcome: The analysis explored whether naturally occurring patterns could be identified across AI usage behaviours, attitudes, reliance and perceptions of creative impact using clustering approaches. Unfortunately, the models did not identify distinct or meaningful clusters within the dataset. The complexity of human behaviour could mean that individuals share characteristics across multiple dimensions, making it difficult to form clear segments. The variables collected, sample size, feature distributions or data collection methods may not provide enough information to distinguish meaningful behavioural profiles. Thus, there is insufficient evidence to support the existence of clear behavioural groups based on relationship with genAI at this time. 
 
 <br> <br> 
 
